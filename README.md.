@@ -1,0 +1,41 @@
+# Home Credit Loan Against Property Qualification Agent
+
+## Project Overview
+This project uses Retell AI to create a voice agent that performs an initial eligibility assessment for existing Home Credit customers interested in a Loan Against Property.
+
+## Objective
+To collect basic property and loan details through a conversational AI voice agent and help determine whether a customer may be suitable for further evaluation.
+
+## Key Features
+- Conversational voice interaction
+- Collects property ownership details
+- Checks availability of original property documents
+- Collects requested loan amount
+- Asks about employment and income source
+- Collects estimated property market value
+- Asks about the preferred repayment tenure
+- Explains that final approval requires further review
+
+## Technology Used
+- Retell AI
+- AI-powered voice agent
+- Natural language conversation
+
+## Workflow
+1. The agent greets the customer.
+2. It asks questions about the property and loan requirements.
+3. It collects the customer's responses.
+4. It provides an initial assessment.
+5. A loan expert may follow up for further evaluation.
+
+## Important Note
+The agent provides an initial assessment only. It does not guarantee loan approval, interest rates, or eligibility.
+
+## Project Status
+The agent configuration and shareable demo link have been created. Browser voice testing is still being checked.
+
+## Demo
+Add your permitted Retell demo link here.
+
+## Developed For
+Academic assignment
